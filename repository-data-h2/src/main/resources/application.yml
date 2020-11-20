@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: repository-data
+      
+server:
+  port: 7070
+  
