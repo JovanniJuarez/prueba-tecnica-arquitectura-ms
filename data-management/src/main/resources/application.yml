@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: data-management
+  cloud:
+    config:
+      uri: http://localhost:8888
+        
+server:
+  port: 9090
